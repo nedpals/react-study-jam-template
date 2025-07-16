@@ -33,7 +33,7 @@ This workshop is designed to give you a strong foundation in the most essential 
 
 No local installation is required for the workshop! We will be using a pre-configured online development environment.
 
-**➡️ Simply open our prepared CodeSandbox environment by clicking the link below:**
+**➡️ Simply open our prepared StackBlitz environment by clicking the link below:**
 
 ### [tinyurl.com/react-study-jam-uict](https://tinyurl.com/react-study-jam-uict)
 
@@ -85,7 +85,7 @@ This study jam is created and led by **Ned Palacios**.
 **Key Resources:**
 
 *   **Presentation Slides:** [react-study-jam.talks.nedpals.xyz](https://react-study-jam.talks.nedpals.xyz)
-*   **Starter CodeSandbox:** [tinyurl.com/react-study-jam-uict](https://tinyurl.com/react-study-jam-uict)
+*   **Starter StackBlitz:** [tinyurl.com/react-study-jam-uict](https://tinyurl.com/react-study-jam-uict)
 *   **Official React Docs:** [react.dev](https://react.dev) (The absolute best place to continue your learning journey!)
 
 ---
